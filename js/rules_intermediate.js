@@ -1166,5 +1166,9 @@ window.RULES_INTERMEDIATE = {
     "/1212dff": {
         "url": "https://blog.acofork.com/posts/onedrive-index/",
         "expired_at": ""
+    },
+    "/huantai": {
+        "url": "https://hcyykj-eos-hhht5-01.eos.huhehaote-8.cmecloud.cn/e7e1af2ccbcf415b8a744c38da4145df086?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27%25E6%25AC%25A2%25E5%25A4%25AA%25E5%25B7%25A5%25E5%2585%25B7%25E7%25AE%25B116.6.apk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260622T0",
+        "expired_at": "2026-06-24T23:11:00.000Z"
     }
 };
