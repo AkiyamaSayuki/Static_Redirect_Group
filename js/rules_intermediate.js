@@ -1170,5 +1170,9 @@ window.RULES_INTERMEDIATE = {
     "/huantai": {
         "url": "https://hcyykj-eos-hhht5-01.eos.huhehaote-8.cmecloud.cn/e7e1af2ccbcf415b8a744c38da4145df086?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27%25E6%25AC%25A2%25E5%25A4%25AA%25E5%25B7%25A5%25E5%2585%25B7%25E7%25AE%25B116.6.apk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260622T0",
         "expired_at": "2026-06-24T23:11:00.000Z"
+    },
+    "/911cn": {
+        "url": "https://global.hk01.com/%E5%8D%B3%E6%97%B6%E4%B8%AD%E5%9B%BD/60364291/%E6%9C%89%E7%89%87-%E5%8C%97%E4%BA%AC%E4%B8%AD%E4%BF%A1%E5%A4%A7%E5%8E%A6%E9%81%AD%E5%B0%8F%E9%A3%9E%E6%9C%BA%E6%92%9E%E5%87%BB-%E6%AE%8B%E9%AA%B8%E5%9B%9B%E6%95%A3%E5%A4%A7%E6%A5%BC%E5%86%92%E7%83%9F%E5%91%98%E5%B7%A5%E7%B4%A7%E6",
+        "expired_at": "2026-06-26T14:17:00.000Z"
     }
 };
